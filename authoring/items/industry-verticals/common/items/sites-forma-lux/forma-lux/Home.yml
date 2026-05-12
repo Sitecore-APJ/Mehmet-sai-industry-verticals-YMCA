@@ -149,10 +149,37 @@ Languages:
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
               uid="{AE225B7C-0876-4FAE-A959-B3AFC8E0E91B}"
-              s:par="FieldNames=%7B96409BF2-9023-4CE1-8EF3-AA01ED5D1F3A%7D&amp;RenderingIdentifier&amp;Styles=%7C%7B8562F7F8-721A-4C82-B884-AAF58B44C6B6%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1&amp;HideGradientOverlay=0&amp;HideAccentLine=0&amp;WithPlaceholder=0&amp;ReverseLayout=0" />
+              s:ds="e69d1418-8d6f-42e1-ac33-274879a0da42"
+              s:par="FieldNames=%7B96409BF2-9023-4CE1-8EF3-AA01ED5D1F3A%7D&amp;RenderingIdentifier=ymca_herobanner&amp;Styles=%7C%7B3193A7EB-6465-49CA-A53B-7579C294924A%7D%7C%7B1D7E4033-FFD2-40D3-99EB-E0BE364BB74F%7D%7C%7BEB728F9E-C2AC-4572-8AE4-A948B68B7EC8%7D%7C%7B8F923E25-1E81-4AE7-AC50-6C0D195B328B%7D%7C%7BF0287895-D69D-4A5F-9EA4-4238A54C05FF%7D&amp;CSSStyles=%21h-96%20overflow-hidden&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1&amp;HideGradientOverlay=0&amp;HideAccentLine=0&amp;WithPlaceholder=0&amp;ReverseLayout=0" />
+            <r
+              uid="{E2CE120A-DC6E-47FF-B313-66339C925974}"
+              p:after="r[@uid='{AE225B7C-0876-4FAE-A959-B3AFC8E0E91B}']"
+              s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles=%7C%7B7F7CCCDA-C15C-4B38-9844-00F2827CFB71%7D%7C%7BA0958B6B-92D6-4A0F-BE51-09648663CD46%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=24"
+              s:ph="headless-main" />
+            <r
+              uid="{26637293-A729-4666-B17D-B257B3D72C8E}"
+              p:after="r[@uid='{E2CE120A-DC6E-47FF-B313-66339C925974}']"
+              s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles=%7C%7B7F7CCCDA-C15C-4B38-9844-00F2827CFB71%7D%7C%7BA0958B6B-92D6-4A0F-BE51-09648663CD46%7D%7C%7BB8F669C4-5BCA-4194-86E5-E81B26A07E57%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=25"
+              s:ph="headless-main" />
             <r
               uid="{D208AC42-DFB1-49D3-87F4-DDF7006DAA69}"
               s:par="FieldNames=%7BA83A4134-EBAE-4CF9-9648-68D54EBAF239%7D&amp;RenderingIdentifier&amp;Styles=%7C%7B00AE1E2D-24DF-476E-AC36-5BD62A6B44A5%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=11&amp;CurvedTop&amp;HideShapes=0&amp;Reversed=0&amp;ShowMultipleImages=0&amp;HideQuote=0&amp;HideCurveLine=1&amp;HideShadows=0&amp;CurvedBottom" />
+            <r
+              uid="{700A097E-9D49-49DE-831C-A9D961E5488C}"
+              p:after="r[@uid='{ED5725EF-03DF-4D4F-BE30-78265C5A7D4F}']"
+              s:ds="local:/Data/Text 2"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BA201C5FD-C17D-4A33-AAC6-E9EA4C973F3D%7D&amp;Styles=%7C%7B11343061-70CC-4066-AB3B-E2EEE2A7E3D4%7D%7C%7B833C53AA-A11A-4F7C-972C-A859505FBAC4%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=23"
+              s:ph="/headless-main/container-24" />
+            <r
+              uid="{F6794C94-C370-48C8-8CE8-926346CBE8DE}"
+              p:after="*[1=2]"
+              s:ds="ffe29b7a-38f8-4c94-bfe4-0761beb50f27"
+              s:id="{E3CCF1D0-7855-4898-8BDE-77F83C6A487C}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B1F38B6BC-87F0-436E-8E98-A5D06F55FE4F%7D&amp;Styles=%7C%7BB8F669C4-5BCA-4194-86E5-E81B26A07E57%7D%7C%7B833C53AA-A11A-4F7C-972C-A859505FBAC4%7D%7C%7B11343061-70CC-4066-AB3B-E2EEE2A7E3D4%7D&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="/headless-main/container-25" />
           </d>
         </r>
     - ID: "13fe722e-a8c7-4432-a983-23fb28ffab05"
@@ -186,45 +213,19 @@ Languages:
       Value: "Explore Forma Lux’s luxurious furniture collections: heritage craftsmanship meets modern, sustainable design for elegant living spaces."
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f60db0fd-90b3-45d1-a4f9-5ff75556f93d"
+      Value: "f0ff4be3-60c5-4be2-b98e-00627eb7f0ec"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\sanduni.galagoda@sitecore.com
+        sitecore\mehmet.vanli@sitecore.com
     - ID: "d3886445-9ee0-46a0-ae5e-8857dd6b395f"
       Hint: pageSummary
       Value: Forma Lux unites artisan heritage with contemporary design to create modular, sustainable furniture for elegant, livable spaces.
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260303T102845Z
+      Value: 20260508T070857Z
 - Language: "es-ES"
   Versions:
-  - Version: 1
-    Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20250828T085804Z
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\neli.kostadinova@sitecore.com
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\neli.kostadinova@sitecore.com
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "ac3ed4dd-db84-4f11-8eae-bdebe5d59e92"
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\isuru.bandara@sitecore.com
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20251007T075314Z
   - Version: 2
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"

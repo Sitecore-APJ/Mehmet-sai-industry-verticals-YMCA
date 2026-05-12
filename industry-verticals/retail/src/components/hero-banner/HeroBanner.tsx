@@ -49,12 +49,15 @@ const HeroBannerCommon = ({
   }
 
   return (
-    <div className={`component hero-banner ${styles} relative flex items-center`} id={id}>
+    <div
+      className={`component hero-banner ${styles} relative flex items-center md:min-h-[min(42vh,28rem)] lg:min-h-[min(44vh,32rem)] xl:min-h-[min(46vh,38rem)] 2xl:min-h-[min(50vh,42rem)]`}
+      id={id}
+    >
       {/* Background Media */}
       <div className="absolute inset-0 z-0">
         {!isPageEditing && fields?.Video?.value?.src ? (
           <video
-            className="h-full w-full object-cover"
+            className="h-full w-full object-cover object-center"
             autoPlay
             muted
             loop
@@ -67,7 +70,7 @@ const HeroBannerCommon = ({
           <>
             <ContentSdkImage
               field={fields.Image}
-              className="h-full w-full object-cover md:object-bottom"
+              className="h-full w-full object-cover object-center"
               priority
             />
           </>
@@ -97,7 +100,7 @@ export const Default = ({ params, fields, rendering }: HeroBannerProps) => {
       <div className="relative w-full">
         <div className="container mx-auto px-4">
           <div
-            className={`flex min-h-238 w-full py-10 lg:w-1/2 lg:items-center ${reverseLayout ? 'lg:mr-auto' : 'lg:ml-auto'}`}
+            className={`flex w-full py-10 lg:w-1/2 lg:items-center ${reverseLayout ? 'lg:mr-auto' : 'lg:ml-auto'}`}
           >
             <div className="max-w-182">
               <div className={clsx({ shim: screenLayer })}>

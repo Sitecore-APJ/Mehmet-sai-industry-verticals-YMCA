@@ -1,0 +1,388 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e3]:
+    - link [ref=e5] [cursor=pointer]:
+      - /url: /
+      - img [ref=e6]
+    - text: 
+    - generic [ref=e7]:
+      - navigation "Main Navigation" [ref=e8]:
+        - list [ref=e9]:
+          - listitem [ref=e10]:
+            - link "About us" [ref=e11] [cursor=pointer]:
+              - /url: /about-us
+          - listitem [ref=e12]:
+            - link "Programs and services" [ref=e13] [cursor=pointer]:
+              - /url: /programs-services
+          - listitem [ref=e14]:
+            - link "Facility Hire" [ref=e15] [cursor=pointer]:
+              - /url: /facility-hire
+          - listitem [ref=e16]:
+            - link "Staff and volunteers" [ref=e17] [cursor=pointer]:
+              - /url: /staff-and-volunteers
+          - listitem [ref=e18]:
+            - link "Support the Y" [ref=e19] [cursor=pointer]:
+              - /url: /support-the-y
+          - listitem [ref=e20]:
+            - link "Partnerships" [ref=e21] [cursor=pointer]:
+              - /url: /partnerships
+      - generic [ref=e23]:
+        - list [ref=e24]:
+          - listitem [ref=e25]:
+            - link "Suppliers" [ref=e26] [cursor=pointer]:
+              - /url: /suppliers
+          - listitem [ref=e27]:
+            - link "Careers" [ref=e28] [cursor=pointer]:
+              - /url: /staff-and-volunteers/careers
+          - listitem [ref=e29]:
+            - link "News and events" [ref=e30] [cursor=pointer]:
+              - /url: /news-and-events
+          - listitem [ref=e31]:
+            - link "Contact us" [ref=e32] [cursor=pointer]:
+              - /url: /contact-us
+        - generic [ref=e33]:
+          - link "Donate" [ref=e34] [cursor=pointer]:
+            - /url: /#sidepanel-donate
+          - button "" [ref=e35] [cursor=pointer]
+          - link " Locate" [ref=e36] [cursor=pointer]:
+            - /url: /contact-us/location
+  - generic [ref=e37]:
+    - heading "Welcome to ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ Y Victoria" [level=1] [ref=e43]
+    - generic [ref=e44]:
+      - generic [ref=e45]:
+        - heading "Inspiring and empowering young people and communities to thrive" [level=2] [ref=e46]
+        - paragraph [ref=e47]: The YMCA is one of the world's longest-running and largest youth-focused movements. Y Victoria has been supporting communities for more than 170 years.
+        - paragraph [ref=e48]:
+          - text: We offer a wide range of programs and services that support children and young people across their life cycle – from early learning and kindergarten programs and
+          - link "teaching kids to swim" [ref=e49] [cursor=pointer]:
+            - /url: /programs-services/recreation/swimming-lessons
+          - text: ", through to empowering young people at our youth hubs and offering meaningful career pathways. We also provide recreation and other supports for older Australians."
+        - paragraph [ref=e50]:
+          - text: Y Victoria is a not-for-profit organisation, meaning that all we receive is put back into improving our
+          - link "programs and services" [ref=e51] [cursor=pointer]:
+            - /url: /programs-services
+          - text: and into
+          - link "supporting local communities" [ref=e52] [cursor=pointer]:
+            - /url: /support-the-y/ymca-open-doors
+          - text: .
+        - paragraph [ref=e53]:
+          - text: With over 5,000
+          - link "staff and volunteers" [ref=e54] [cursor=pointer]:
+            - /url: /staff-and-volunteers
+          - text: ", we deliver services at more than 150 locations every day, including Action Sports, Camps, Children's Programs, Recreation and Youth Services. We also offer"
+          - link "spaces for hire" [ref=e55] [cursor=pointer]:
+            - /url: /facility-hire
+          - text: to help bring communities together.
+        - paragraph [ref=e56]:
+          - text: Y Victoria is
+          - link "part of the wider Y story" [ref=e57] [cursor=pointer]:
+            - /url: /about-us
+          - text: .
+          - link "Our impact" [ref=e58] [cursor=pointer]:
+            - /url: https://annualreport.ymca.org.au/our-impact
+          - text: has changed the lives of thousands of young people and Victorians.
+        - paragraph [ref=e59]:
+          - strong [ref=e60]:
+            - text: Get involved through our
+            - link "partnerships" [ref=e61] [cursor=pointer]:
+              - /url: /partnerships
+            - text: and by
+            - link "donating to the Y" [ref=e62] [cursor=pointer]:
+              - /url: /support-the-y/donate
+            - text: .
+      - generic [ref=e64]:
+        - link "Action Sports Our skate parks provide a safe and supportive environment for young people to be active, engaged and empowered. Through our skateboard lessons, skate competitions, school programs and training workshops, we engage over 250,000 people every year." [ref=e66] [cursor=pointer]:
+          - /url: /programs-services/action-sports
+          - generic [ref=e68]:
+            - generic [ref=e70]:
+              - text: Action Sports
+              - button [ref=e71]
+            - paragraph [ref=e72]: Our skate parks provide a safe and supportive environment for young people to be active, engaged and empowered. Through our skateboard lessons, skate competitions, school programs and training workshops, we engage over 250,000 people every year.
+        - link "Camps We run camping facilities and programs for schools, community groups and families at seven different campsites across Victoria. Whether you're looking for adventure, outdoor education or team building – come summer sunshine or winter snow, we have a camp experience for you." [ref=e74] [cursor=pointer]:
+          - /url: /programs-services/camps
+          - generic [ref=e76]:
+            - generic [ref=e78]:
+              - text: Camps
+              - button [ref=e79]
+            - paragraph [ref=e80]: We run camping facilities and programs for schools, community groups and families at seven different campsites across Victoria. Whether you're looking for adventure, outdoor education or team building – come summer sunshine or winter snow, we have a camp experience for you.
+        - link "Children's Programs We deliver fun, safe and affordable education and care programs to support children holistically throughout their early education. Our services include early learning, before and after school care, and school holiday programs." [ref=e82] [cursor=pointer]:
+          - /url: /programs-services/childrens-programs
+          - generic [ref=e84]:
+            - generic [ref=e86]:
+              - text: Children's Programs
+              - button [ref=e87]
+            - paragraph [ref=e88]: We deliver fun, safe and affordable education and care programs to support children holistically throughout their early education. Our services include early learning, before and after school care, and school holiday programs.
+      - generic [ref=e90]:
+        - link "Recreation We manage aquatic, recreation and stadium facilities in partnership with local government. Our centres are a hub for the local community to get fit, keep healthy and stay social. We run health and wellness programs, swimming lessons, gymnastics and more." [ref=e92] [cursor=pointer]:
+          - /url: /programs-services/recreation
+          - generic [ref=e94]:
+            - generic [ref=e96]:
+              - text: Recreation
+              - button [ref=e97]
+            - paragraph [ref=e98]: We manage aquatic, recreation and stadium facilities in partnership with local government. Our centres are a hub for the local community to get fit, keep healthy and stay social. We run health and wellness programs, swimming lessons, gymnastics and more.
+        - link "Youth Services We inspire and empower young people to build up their skills, connect with their community, and have their voices heard. We do this through learning and leadership programs, social impact initiatives and Y Spaces." [ref=e100] [cursor=pointer]:
+          - /url: /programs-services/youth-services
+          - generic [ref=e102]:
+            - generic [ref=e104]:
+              - text: Youth Services
+              - button [ref=e105]
+            - paragraph [ref=e106]: We inspire and empower young people to build up their skills, connect with their community, and have their voices heard. We do this through learning and leadership programs, social impact initiatives and Y Spaces.
+  - contentinfo [ref=e107]:
+    - generic [ref=e109]:
+      - list [ref=e111]:
+        - listitem [ref=e112]:
+          - paragraph [ref=e113]:
+            - strong [ref=e114]:
+              - link "Contact us" [ref=e115] [cursor=pointer]:
+                - /url: /contact-us
+            - strong [ref=e116]: Y Victoria
+            - text: 502/990 Whitehorse road
+            - text: Box Hill VIC 3128
+            - text: T (03) 9403 5000
+      - generic [ref=e117]:
+        - paragraph [ref=e118]:
+          - generic [ref=e119]: About the Y
+        - link "About us We believe in the power of inspired young people." [ref=e120] [cursor=pointer]:
+          - /url: /about-us
+          - generic [ref=e122]:
+            - paragraph [ref=e123]: About us
+            - paragraph [ref=e124]: We believe in the power of inspired young people.
+        - link "Programs and services We run action sports, camps, children's programs, recreation facilities and youth services." [ref=e125] [cursor=pointer]:
+          - /url: /programs-services
+          - generic [ref=e127]:
+            - paragraph [ref=e128]: Programs and services
+            - paragraph [ref=e129]: We run action sports, camps, children's programs, recreation facilities and youth services.
+        - link "Support the Y Y Victoria is making an impact in local communities." [ref=e130] [cursor=pointer]:
+          - /url: /support-the-y
+          - generic [ref=e132]:
+            - paragraph [ref=e133]: Support the Y
+            - paragraph [ref=e134]: Y Victoria is making an impact in local communities.
+      - generic [ref=e135]:
+        - paragraph [ref=e136]:
+          - generic [ref=e137]: Follow us on social media
+        - generic [ref=e138]:
+          - link [ref=e139] [cursor=pointer]:
+            - /url: https://www.facebook.com/ymcavictoria
+            - img [ref=e140]
+          - link [ref=e141] [cursor=pointer]:
+            - /url: https://www.instagram.com/ymcavictoria
+            - img [ref=e142]
+          - link [ref=e143] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/ymcavictoria
+            - img [ref=e144]
+        - generic [ref=e145]:
+          - link [ref=e147] [cursor=pointer]:
+            - /url: /about-us/safeguarding
+            - img [ref=e148]
+          - link [ref=e150] [cursor=pointer]:
+            - /url: /lookup/our-logos-links/ymca
+            - img [ref=e151]
+    - list [ref=e154]:
+      - listitem [ref=e155]:
+        - link "Careers" [ref=e156] [cursor=pointer]:
+          - /url: /staff-and-volunteers/careers
+      - listitem [ref=e157]:
+        - link "Privacy policy" [ref=e158] [cursor=pointer]:
+          - /url: /privacy-policy
+      - listitem [ref=e159]:
+        - link "Staff and volunteers" [ref=e160] [cursor=pointer]:
+          - /url: /staff-and-volunteers
+  - generic:
+    - button "Close" [ref=e164] [cursor=pointer]
+    - generic [ref=e179]:
+      - generic [ref=e180]:
+        - generic [ref=e181]:
+          - generic [ref=e182]: Donate
+          - button "Close" [ref=e183] [cursor=pointer]
+        - generic [ref=e184]: You are helping support local people who are doing it tough.
+      - generic [ref=e185]:
+        - generic [ref=e186]:
+          - heading "SUPPORT OUR WORK" [level=2] [ref=e187]
+          - generic [ref=e191]: Thank-you for choosing to believe in the power of inspired young people and their communities. Your support enables those who are doing it tough to gain access to our life-changing programs & services.
+          - heading "My Donation:" [level=3] [ref=e192]
+          - paragraph [ref=e193]
+        - generic [ref=e194]:
+          - heading [level=3]
+          - generic [ref=e195]:
+            - generic [ref=e196] [cursor=pointer]: $ 10
+            - generic [ref=e197] [cursor=pointer]: $ 25
+            - generic [ref=e198] [cursor=pointer]: $ 50
+            - generic [ref=e199] [cursor=pointer]: $ 100
+            - generic [ref=e200] [cursor=pointer]: Other
+          - generic:
+            - text: $
+            - textbox "Enter the amount you wish to donate" [disabled] [ref=e201]
+      - generic [ref=e204]:
+        - heading "Your Details" [level=4] [ref=e205]
+        - textbox "First Name" [ref=e206]
+        - textbox "Last Name" [ref=e207]
+        - textbox "Email" [ref=e208]
+        - textbox "Phone" [ref=e209]
+        - heading "Address" [level=4] [ref=e210]
+        - textbox "Company" [ref=e211]
+        - textbox "Address" [ref=e212]
+        - textbox "Suburb" [ref=e213]
+        - generic [ref=e214]:
+          - combobox [ref=e216]:
+            - option [selected]
+            - option "ACT"
+            - option "NSW"
+            - option "VIC"
+            - option "WA"
+            - option "SA"
+            - option "TAS"
+            - option "QLD"
+            - option "NT"
+          - textbox "Postcode" [ref=e218]
+        - generic [ref=e219]:
+          - checkbox [checked] [ref=e220] [cursor=pointer]
+          - text: I consent to receiving marketing communications
+        - button "Submit" [ref=e221] [cursor=pointer]
+    - generic [ref=e222]:
+      - generic [ref=e223]:
+        - generic [ref=e224]:
+          - generic [ref=e225]: Donate
+          - button "Close" [ref=e226] [cursor=pointer]
+        - generic [ref=e227]: You are helping support local people who are doing it tough.
+      - generic [ref=e228]:
+        - generic [ref=e229]:
+          - heading "Help ReBuild young lives." [level=2] [ref=e230]
+          - generic [ref=e234]: With your gift, we will equip young people from the justice system with the skills they need to turn around their lives. We appreciate your generosity and support in helping us give opportunity to invest the time and energy into more young people, through training, employment and mentoring, to build long term careers.
+          - heading "Supporting YMCA ReBuild" [level=3] [ref=e235]
+          - paragraph [ref=e236]: We rely on contributions from people like you to continue our vital work rebuilding the lives of young people involved in, or who are at risk of being involved in, the criminal justice system. In-kind donations are welcomed such as workshop tools, vehicles, large quantities of timber and other maintenance machinery and materials. Please outline your offer and we will contact you to discuss further.
+        - generic [ref=e237]:
+          - heading [level=3]
+          - generic [ref=e238]:
+            - generic [ref=e239] [cursor=pointer]: $ 50
+            - generic [ref=e240] [cursor=pointer]: $ 100
+            - generic [ref=e241] [cursor=pointer]: $ 500
+            - generic [ref=e242] [cursor=pointer]: $ 1000
+            - generic [ref=e243] [cursor=pointer]: Other
+          - generic:
+            - text: $
+            - textbox "Enter the amount you wish to donate" [disabled] [ref=e244]
+      - generic [ref=e247]:
+        - heading "Your Details" [level=4] [ref=e248]
+        - textbox "First Name" [ref=e249]
+        - textbox "Last Name" [ref=e250]
+        - textbox "Email" [ref=e251]
+        - textbox "Phone" [ref=e252]
+        - heading "Address" [level=4] [ref=e253]
+        - textbox "Company" [ref=e254]
+        - textbox "Address" [ref=e255]
+        - textbox "Suburb" [ref=e256]
+        - generic [ref=e257]:
+          - combobox [ref=e259]:
+            - option [selected]
+            - option "ACT"
+            - option "NSW"
+            - option "VIC"
+            - option "WA"
+            - option "SA"
+            - option "TAS"
+            - option "QLD"
+            - option "NT"
+          - textbox "Postcode" [ref=e261]
+        - generic [ref=e262]:
+          - checkbox [checked] [ref=e263] [cursor=pointer]
+          - text: I consent to receiving marketing communications
+        - button "Submit" [ref=e264] [cursor=pointer]
+    - generic [ref=e265]:
+      - generic [ref=e266]:
+        - generic [ref=e267]:
+          - generic [ref=e268]: Donate
+          - button "Close" [ref=e269] [cursor=pointer]
+        - generic [ref=e270]: You are helping support local people who are doing it tough.
+      - generic [ref=e271]:
+        - generic [ref=e272]:
+          - heading "Support Andrew Crozier swim" [level=2] [ref=e273]
+          - generic [ref=e277]:
+            - text: At just $20 a lesson, every dollar counts to help the YMCA teach these vital skills to families who cannot afford them.
+            - text: Thank you for your generosity.
+          - heading "My Donation:" [level=3] [ref=e278]
+          - paragraph [ref=e279]
+        - generic [ref=e280]:
+          - heading [level=3]
+          - generic [ref=e281]:
+            - generic [ref=e282] [cursor=pointer]: $ 20
+            - generic [ref=e283] [cursor=pointer]: $ 40
+            - generic [ref=e284] [cursor=pointer]: $ 80
+            - generic [ref=e285] [cursor=pointer]: $ 100
+            - generic [ref=e286] [cursor=pointer]: Other
+          - generic:
+            - text: $
+            - textbox "Enter the amount you wish to donate" [disabled] [ref=e287]
+      - generic [ref=e290]:
+        - heading "Your Details" [level=4] [ref=e291]
+        - textbox "First Name" [ref=e292]
+        - textbox "Last Name" [ref=e293]
+        - textbox "Email" [ref=e294]
+        - textbox "Phone" [ref=e295]
+        - heading "Address" [level=4] [ref=e296]
+        - textbox "Company" [ref=e297]
+        - textbox "Address" [ref=e298]
+        - textbox "Suburb" [ref=e299]
+        - generic [ref=e300]:
+          - combobox [ref=e302]:
+            - option [selected]
+            - option "ACT"
+            - option "NSW"
+            - option "VIC"
+            - option "WA"
+            - option "SA"
+            - option "TAS"
+            - option "QLD"
+            - option "NT"
+          - textbox "Postcode" [ref=e304]
+        - generic [ref=e305]:
+          - checkbox [checked] [ref=e306] [cursor=pointer]
+          - text: I consent to receiving marketing communications
+        - button "Submit" [ref=e307] [cursor=pointer]
+    - generic [ref=e308]:
+      - generic [ref=e309]:
+        - generic [ref=e310]:
+          - generic [ref=e311]: Donate
+          - button "Close" [ref=e312] [cursor=pointer]
+        - generic [ref=e313]: You are helping support local people who are doing it tough.
+      - generic [ref=e314]:
+        - generic [ref=e315]:
+          - heading "Holiday giving - swimming lessons" [level=2] [ref=e316]
+          - generic [ref=e320]: With your gift, we will equip young people with the skills they need to save their life. We appreciate your generosity and support in helping us give everybody, no matter their circumstance, the chance to be healthier, happier and more connected to their community.
+          - heading "Supporting YMCA Open Doors" [level=3] [ref=e321]
+          - paragraph [ref=e322]: We rely on contributions from people like you to continue our vital work with disadvantaged young people. Without you, we wouldn’t be able to provide subsidised access to life changing YMCA programs and services to those who wouldn’t otherwise be able to afford it.
+        - generic [ref=e323]:
+          - heading [level=3]
+          - generic [ref=e324]:
+            - generic [ref=e325] [cursor=pointer]: $ 20
+            - generic [ref=e326] [cursor=pointer]: $ 40
+            - generic [ref=e327] [cursor=pointer]: $ 60
+            - generic [ref=e328] [cursor=pointer]: $ 80
+            - generic [ref=e329] [cursor=pointer]: Other
+          - generic:
+            - text: $
+            - textbox "Enter the amount you wish to donate" [disabled] [ref=e330]
+      - generic [ref=e333]:
+        - heading "Your Details" [level=4] [ref=e334]
+        - textbox "First Name" [ref=e335]
+        - textbox "Last Name" [ref=e336]
+        - textbox "Email" [ref=e337]
+        - textbox "Phone" [ref=e338]
+        - heading "Address" [level=4] [ref=e339]
+        - textbox "Company" [ref=e340]
+        - textbox "Address" [ref=e341]
+        - textbox "Suburb" [ref=e342]
+        - generic [ref=e343]:
+          - combobox [ref=e345]:
+            - option [selected]
+            - option "ACT"
+            - option "NSW"
+            - option "VIC"
+            - option "WA"
+            - option "SA"
+            - option "TAS"
+            - option "QLD"
+            - option "NT"
+          - textbox "Postcode" [ref=e347]
+        - generic [ref=e348]:
+          - checkbox [checked] [ref=e349] [cursor=pointer]
+          - text: I consent to receiving marketing communications
+        - button "Submit" [ref=e350] [cursor=pointer]

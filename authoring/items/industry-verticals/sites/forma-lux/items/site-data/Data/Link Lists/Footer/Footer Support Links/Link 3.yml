@@ -25,17 +25,17 @@ Languages:
     - ID: "68c2a603-f98e-42a3-be2d-dd70598c2a63"
       Hint: Link
       Value: |
-        <link text="Community Guidelines" linktype="external" url="" anchor="" target="" />
+        <link linktype="external" url="ww" text="Gifts" anchor=""/>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b4badd44-7b2b-4ee7-b9f5-150bdd47b2dc"
+      Value: "0abcdac2-2fdb-4fb7-b907-382bef5d32f7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\movin.tilakaratne@sitecore.com
+        sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250910T102703Z
+      Value: 20260512T052628Z
 - Language: "es-ES"
   Versions:
   - Version: 1
