@@ -9,21 +9,21 @@ SharedFields:
   Value: "{412BF445-B1A6-4AFF-8054-0B21A1FEBC47}"
 - ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
   Hint: NavigationFilter
-  Value: "{D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}"
+  Value: 
 - ID: "25f9b35b-0c2c-4f43-ae2f-1d30eb1f2b6b"
   Hint: ogImage
   Value: |
     <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/76692-LandingPageHero-2000x600?v=cfa06d5a" dam-id="VwISYcNlRGiiqWFo96-N1Q" width="2000" height="600" alt="articles-meta.jpg" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/76692/thumbnail" />
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 700
+  Value: 200
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{5FA79714-AC55-4EEB-B05B-B7E1E00CB5D8}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "3f82ebc8-042a-4f4c-af14-314671dfaf2d"
+  Value: "751a696f-6b81-4dc8-9bec-a59cf8ca7a3f"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -55,6 +55,13 @@ SharedFields:
     </r>
 Languages:
 - Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "0c36c57c-5cfa-44e0-adbd-a5afeca2eb70"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: News
   Versions:
   - Version: 1
     Fields:
@@ -72,7 +79,7 @@ Languages:
       Value: Forma Lux Journal – Articles
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: Articles
+      Value: News
     - ID: "4ff91248-33ab-4254-b6f7-2618fd0aebae"
       Hint: Title
       Value: Articles
@@ -89,17 +96,17 @@ Languages:
       Value: Discover Forma Lux articles on interiors, materials, and modern craftsmanship.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f689d69e-a35f-4367-b901-2cf7983a9485"
+      Value: "17c6f66a-d4f1-4305-aa20-d6bae9fe835e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ranula.gamage@sitecore.com
+        sitecore\mehmet.vanli@sitecore.com
     - ID: "d3886445-9ee0-46a0-ae5e-8857dd6b395f"
       Hint: pageSummary
       Value: Ideas and inspiration from the Forma Lux Journal—on design, materials, and living well.
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260203T082512Z
+      Value: 20260514T233503Z
 - Language: "es-ES"
   Versions:
   - Version: 1

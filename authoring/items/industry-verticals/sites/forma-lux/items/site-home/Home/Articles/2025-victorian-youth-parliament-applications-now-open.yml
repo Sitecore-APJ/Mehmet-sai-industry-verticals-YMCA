@@ -1,0 +1,118 @@
+﻿---
+ID: "3f7901d9-b96c-4781-ae75-36040517e8dd"
+Parent: "e9a6e6f8-3dd6-4664-a6e0-1923816f94c6"
+Template: "412bf445-b1a6-4aff-8054-0b21a1febc47"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Articles/2025-victorian-youth-parliament-applications-now-open"
+SharedFields:
+- ID: "5f90c361-338c-4896-b022-11dafa5c2241"
+  Hint: PublishedDate
+  Value: 20250301T000000Z
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: Victorian Youth Parliament|Youth leadership|Victoria|Applications|Y Victoria
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{13A024C4-0FD9-43C4-A2EF-7CDE01D5D793}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "6b9a414e-257a-4c0b-accd-3504b036a3e2"
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "f85c66ae-7cde-4a0e-a83e-9ea0cdc2bb3f"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Step Up, Speak Out: 2025 Victorian Youth Parliament Applications Now Open"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: The 2025 Victorian Youth Parliament is now open to applicants aged 16–25 across Victoria. Participants receive training and support to develop and debate Bills on issues that matter, with accessibility and travel assistance available.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260515T025448Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 2025 Youth Parliament Applications
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <h2>Young people across Victoria: your voice matters</h2>
+        <p>Applications for the <strong>2025 Victorian Youth Parliament</strong> are now open — an opportunity for <strong>16–25-year-olds</strong> to shape policy, build leadership skills, and connect with peers from right across our communities. Whether you’re passionate about the environment, education, health, or social justice, this is a chance to turn ideas into action.</p>
+        
+        <h2>What the Youth Parliament is and who can apply</h2>
+        <p>The Victorian Youth Parliament gives young people firsthand experience of democratic processes by researching, debating and presenting Bills on issues that matter to youth. We welcome applicants aged 16–25 from every background — first-time public speakers, community advocates, LGBTIQA+ young people, those from regional and remote areas, and young people with disability.</p>
+        <p>No prior political experience is required: enthusiasm, curiosity and a commitment to listening to your community are what count.</p>
+        <p><strong>Note:</strong> Applications are assumed to be open from <strong>1 March to 30 April 2025</strong>, with the program running through mid-2025 and culminating in a sitting week at Parliament House in Melbourne in <strong>September 2025</strong>. Please check the official Y Victoria webpage for the most current dates and application details.</p>
+        
+        <h2>What to expect and how Y Victoria supports you</h2>
+        <p>Selected participants will take part in training sessions on public speaking, policy research and parliamentary procedure. Y Victoria provides mentoring, workshops and opportunities to link your Bill to real community needs so your work has lasting impact.</p>
+        <p>We also aim to remove barriers to participation: travel bursaries, online participation options, and supports for accessibility are available where needed — talk to us about what you need, and we’ll do our best to help.</p>
+        <p>This is more than a week in Parliament. Past participants have started community campaigns, joined youth advisory groups, and taken leadership roles in schools and local clubs. The skills you build — teamwork, critical thinking, and persuasive communication — are useful no matter where you go next.</p>
+        
+        <h2>Voices from the community</h2>
+        <blockquote>
+          <p>“One of the most powerful parts of Youth Parliament was seeing how ideas from my local community turned into a real debate in Parliament,” says Sarah Nguyen, Y Victoria Youth Programs Manager. “We’re committed to making this process welcoming and practical — giving every young person the training and support they need to speak confidently, represent their peers, and create change.”</p>
+        </blockquote>
+        
+        <h2>How to apply and get involved</h2>
+        <p>Ready to step up? Visit <a href="https://yvictoria.org.au/youth-parliament">yvictoria.org.au/youth-parliament</a> to read the full eligibility criteria, download the application form, and view available supports.</p>
+        <p>If you need help with your application or want to discuss accessibility or travel support, email <a href="mailto:youth@yvictoria.org.au">youth@yvictoria.org.au</a> or call your local Y Victoria centre — we’re here to help.</p>
+        
+        <h2>Call to action</h2>
+        <p><strong>Apply today</strong> and bring your community’s voice to the table. Share this opportunity with young people, parents, schools and local groups so more diverse voices can be part of shaping Victoria’s future. Together we can empower young leaders and build stronger, fairer communities.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
+      Hint: ShortDescription
+      Value: "Applications for the 2025 Victorian Youth Parliament are now open for 16–25-year-olds across Victoria. Build leadership skills, develop and debate Bills, and connect with peers, with training and participation supports available."
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: "Applications for the 2025 Victorian Youth Parliament are open for 16–25-year-olds across Victoria. Gain training, mentorship and support to research, debate and present Bills at Parliament House."
+    - ID: "844baf54-2f0e-42a5-8cab-5f596ea60c3e"
+      Hint: ReadTime
+      Value: 4 min read
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e68a1b65-7a2d-4bb4-80a7-3aa3cc378341"
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: "Step Up, Speak Out: 2025 Victorian Youth Parliament Applications Now Open"
+    - ID: "b7bb63c4-ac9e-4536-9d96-c3c5e9d14ced"
+      Hint: Shares
+      Value: 0
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260515T025450Z
+    - ID: "de1b043b-cddd-48a7-b9c4-98251e188b30"
+      Hint: Likes
+      Value: 0
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: 2025 Victorian Youth Parliament Applications Now Open | Y Victoria
+    - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
+      Hint: metadataKeywords
+      Value: |
+        Victorian Youth Parliament
+        Y Victoria
+        youth leadership
+        applications 2025
+        Victoria youth programs
+        public speaking training
+        policy research
+        Parliament House Melbourne
+        youth engagement

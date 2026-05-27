@@ -4,10 +4,16 @@ Parent: "4e869961-efef-4b47-bb69-170a251d689b"
 Template: "98e60957-0783-4a9a-85cc-77dad30e9711"
 Path: "/sitecore/content/industry-verticals/forma-lux/Home/Programs and services"
 SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 56
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{6588CA17-4298-4EC9-8A06-5CF56962823D}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "7a6b16c5-9e22-40ad-a7a2-28e16e93c121"
 Languages:
 - Language: en
   Versions:
@@ -57,7 +63,7 @@ Languages:
       Value: 20260512T044416Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: Programs and services
+      Value: Programs
     - ID: "4ff91248-33ab-4254-b6f7-2618fd0aebae"
       Hint: Title
       Value: Programs and services
@@ -71,11 +77,11 @@ Languages:
         sitecore\mehmet.vanli@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "78edeee2-2bfa-48d0-8ff8-e76b0096a4da"
+      Value: "ddd969f4-895a-40be-a2a2-b2f02e2f7211"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260512T062313Z
+      Value: 20260514T233307Z

@@ -38,7 +38,7 @@ Languages:
         sitecore\movin.tilakaratne@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "08d607f2-2e6b-468b-b321-39be0165bdca"
+      Value: "57b73928-cb65-4254-b3eb-5f92ce39894a"
     - ID: "985b877b-bfee-473e-aada-0a9f156dfecc"
       Hint: Title
       Value: Welcome to Y Victoria
@@ -48,11 +48,11 @@ Languages:
         sitecore\mehmet.vanli@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260508T064945Z
+      Value: 20260515T003759Z
     - ID: "e3c72e5d-cbf1-4af8-8a73-dc4d3c8590f3"
       Hint: CtaLink
       Value: |
-        <link class="" querystring="" id="4e869961-efef-4b47-bb69-170a251d689b" anchor="" target="" title="" linktype="internal" text="See what's new" url="/industry-verticals/forma-lux/Home" />
+        <link linktype="external" url="www" target="" text="See what's new" title="" class=""/>
 - Language: "es-ES"
   Versions:
   - Version: 1
