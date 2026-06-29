@@ -1,0 +1,248 @@
+﻿---
+ID: "d878d89c-e686-41f3-a805-6261cdd6f0ca"
+Parent: "e9a6e6f8-3dd6-4664-a6e0-1923816f94c6"
+Template: "412bf445-b1a6-4aff-8054-0b21a1febc47"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Articles/Registrations Now Open for Y Victoria 2026 Summer Camps"
+SharedFields:
+- ID: "5f90c361-338c-4896-b022-11dafa5c2241"
+  Hint: PublishedDate
+  Value: "2026-05-20"
+- ID: "7f7ef9d5-f278-4bfe-94fb-c4be7894feb5"
+  Hint: Image
+  Value: |
+    <Image src="https://ymca-demo.sitecoresandbox.cloud/api/public/content/84304-HomepagePromoCTAs-1100x740?v=e5f73b4f" dam-id="h0DWbVuVRv2I0lZXF9drrQ" width="1024" height="576" alt="generated-image-1779241882479.jpg" dam-content-type="Image" thumbnailsrc="https://ymca-demo.sitecoresandbox.cloud/api/gateway/84304/thumbnail" />
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{5DF960EA-F5D5-4387-B675-74B3A241D9DB}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "17b5ab49-6306-4070-9537-f5304928deb8"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T011139Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Registrations Now Open for Y Victoria 2026 Summer Camps
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3c01122a-559a-4b06-89db-3d7deccd61a8"
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: Registrations Now Open for Y Victoria 2026 Summer Camps
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260520T011139Z
+  - Version: 2
+    Fields:
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: Y Victoria opens registrations for its 2026 Summer Camps, inviting Victorian families to secure a place in a summer of fun, belonging and growth.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T011147Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Registrations Now Open for Y Victoria 2026 Summer Camps
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: "<p>Victorian families can now register for Y Victoria’s 2026 Summer Camps, with the program starting on Monday 14 December 2026 at camp locations across Victoria. Designed for children and young people aged 8 to 16, the camps offer a summer holiday experience filled with adventure, outdoor activities, new friendships and plenty of opportunities to try something new.</p><p>The camps are built around the Y’s commitment to creating welcoming spaces where young people feel supported, included and encouraged to have a go. Campers can expect a mix of teamwork, creativity and time in nature, with activities designed to help them build confidence, strengthen independence and make lasting memories. Whether a young person is arriving with friends or coming along solo, the experience is all about belonging, fun and personal growth.</p><p>For Y Victoria, the program is part of a much bigger mission. As a not-for-profit organisation, the Y reinvests in programs that help communities thrive, with a strong focus on youth empowerment, healthy communities and connection. Summer camps are one way the Y helps young people step away from screens and into meaningful shared experiences that can have a real impact long after the holidays end.</p><p>“Summer camp gives young people a chance to discover what they’re capable of, make new connections and feel part of something bigger,” said a Y Victoria Program Leader. “It’s amazing to see the confidence they build in just a few days.”</p><p>Places are expected to fill quickly, so families are encouraged to register early for the 2026 season. To learn more and secure a spot, visit the Y Victoria website and head to the Camps section today.</p>"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: Registrations are open for Y Victoria’s 2026 Summer Camps, giving Victorian children and young people aged 8 to 16 a summer of adventure, confidence and connection.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1a78ee9d-08dd-4a35-9291-83bf8818fb3e"
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: Registrations Now Open for Y Victoria 2026 Summer Camps
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20260520T011147Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260520T011148Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: Registrations Now Open for Y Victoria 2026 Summer Camps | Y Victoria
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: Y Victoria opens registrations for its 2026 Summer Camps, inviting Victorian families to secure a place in a summer of fun, belonging and growth.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T012311Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Registrations Now Open for Y Victoria 2026 Summer Camps
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: "<p>Victorian families can now register for Y Victoria’s 2026 Summer Camps, with the program starting on Monday 14 December 2026 at camp locations across Victoria. Designed for children and young people aged 8 to 16, the camps offer a summer holiday experience filled with adventure, outdoor activities, new friendships and plenty of opportunities to try something new.</p><p>The camps are built around the Y’s commitment to creating welcoming spaces where young people feel supported, included and encouraged to have a go. Campers can expect a mix of teamwork, creativity and time in nature, with activities designed to help them build confidence, strengthen independence and make lasting memories. Whether a young person is arriving with friends or coming along solo, the experience is all about belonging, fun and personal growth.</p><p>For Y Victoria, the program is part of a much bigger mission. As a not-for-profit organisation, the Y reinvests in programs that help communities thrive, with a strong focus on youth empowerment, healthy communities and connection. Summer camps are one way the Y helps young people step away from screens and into meaningful shared experiences that can have a real impact long after the holidays end.</p><p>“Summer camp gives young people a chance to discover what they’re capable of, make new connections and feel part of something bigger,” said a Y Victoria Program Leader. “It’s amazing to see the confidence they build in just a few days.”</p><p>Places are expected to fill quickly, so families are encouraged to register early for the 2026 season. To learn more and secure a spot, visit the Y Victoria website and head to the Camps section today.</p>"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: Registrations are open for Y Victoria’s 2026 Summer Camps, giving Victorian children and young people aged 8 to 16 a summer of adventure, confidence and connection.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "100ec61f-65bb-49ae-ba52-5479015f6d93"
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: Registrations Now Open for Y Victoria 2026 Summer Camps
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20260520T012311Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260520T020150Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: Registrations Now Open for Y Victoria 2026 Summer Camps | Y Victoria
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: Y Victoria abre inscripciones para sus Campamentos de Verano 2026, invitando a las familias victorianas a asegurar un lugar en un verano de diversión, pertenencia y crecimiento.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T012311Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Inscripciones Abiertas para los Campamentos de Verano 2026 de Y Victoria
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: <p>Las familias victorianas ya pueden inscribirse en los Campamentos de Verano 2026 de Y Victoria, con el programa comenzando el lunes 14 de diciembre de 2026 en ubicaciones de campamento por toda Victoria. Diseñados para niños y jóvenes de 8 a 16 años, los campamentos ofrecen una experiencia de vacaciones de verano llena de aventura, actividades al aire libre, nuevas amistades y muchas oportunidades para probar algo nuevo.</p><p>Los campamentos están basados en el compromiso de Y de crear espacios acogedores donde los jóvenes se sientan apoyados, incluidos y animados a intentarlo. Los campistas pueden esperar una mezcla de trabajo en equipo, creatividad y tiempo en la naturaleza, con actividades diseñadas para ayudarles a construir confianza, fortalecer la independencia y crear recuerdos duraderos. Ya sea que un joven llegue con amigos o venga solo, la experiencia se trata de pertenencia, diversión y crecimiento personal.</p><p>Para Y Victoria, el programa es parte de una misión mucho más grande. Como organización sin ánimo de lucro, Y reinvierte en programas que ayudan a las comunidades a prosperar, con un fuerte enfoque en el empoderamiento juvenil, comunidades saludables y conexión. Los campamentos de verano son una de las formas en que Y ayuda a los jóvenes a alejarse de las pantallas y participar en experiencias compartidas significativas que pueden tener un impacto real mucho después de que terminen las vacaciones.</p><p>“El campamento de verano da a los jóvenes la oportunidad de descubrir de lo que son capaces, hacer nuevas conexiones y sentirse parte de algo más grande”, dijo un Líder de Programas de Y Victoria. “Es increíble ver la confianza que construyen en solo unos días.”</p><p>Se espera que los lugares se llenen rápidamente, por lo que se anima a las familias a inscribirse temprano para la temporada 2026. Para obtener más información y asegurar un lugar, visite el sitio web de Y Victoria y diríjase a la sección de Campamentos hoy mismo.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: Las inscripciones están abiertas para los Campamentos de Verano 2026 de Y Victoria, ofreciendo a los niños y jóvenes victorianos de 8 a 16 años un verano de aventura, confianza y conexión.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "75deff87-1ae4-4ab5-9b81-0a7677d1e83f"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: Inscripciones Abiertas para los Campamentos de Verano 2026 de Y Victoria
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20260520T012311Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260527T061336Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: Inscripciones Abiertas para los Campamentos de Verano 2026 de Y Victoria | Y Victoria
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: Y Victoria ouvre les inscriptions pour ses camps d'été 2026, invitant les familles victoriennes à réserver une place pour un été de plaisir, d'appartenance et de développement.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260520T012311Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Inscriptions ouvertes pour les camps d'été 2026 de Y Victoria
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <p>Les familles victoriennes peuvent désormais s'inscrire aux camps d'été 2026 de Y Victoria, dont le programme commence le lundi 14 décembre 2026 dans des lieux de camp à travers le Victoria. Conçus pour les enfants et les jeunes âgés de 8 à 16 ans, les camps offrent une expérience de vacances d'été remplie d'aventure, d'activités de plein air, de nouvelles amitiés et de nombreuses opportunités d'essayer quelque chose de nouveau.</p><p>Les camps sont construits autour de l'engagement du Y à créer des espaces accueillants où les jeunes se sentent soutenus, inclus et encouragés à essayer. Les campeurs peuvent s'attendre à un mélange de travail d'équipe, de créativité et de temps dans la nature, avec des activités conçues pour les aider à renforcer leur confiance, à développer leur indépendance et à créer des souvenirs durables. Que ce soit avec des amis ou en solo, l'expérience est axée sur l'appartenance, le plaisir et la croissance personnelle.</p><p>Pour Y Victoria, le programme fait partie d'une mission bien plus grande. En tant qu'organisation à but non lucratif, le Y réinvestit dans des programmes qui aident les communautés à prospérer, avec un fort accent sur l'autonomisation des jeunes, des communautés saines et la connexion. Les camps d'été sont un moyen pour le Y d'aider les jeunes à s'éloigner des écrans et à vivre des expériences partagées significatives qui peuvent avoir un impact réel bien après la fin des vacances.</p><p>"Le camp d'été donne aux jeunes l'occasion de découvrir ce dont ils sont capables, de nouer de nouvelles connexions et de se sentir partie prenante de quelque chose de plus grand", a déclaré un responsable de programme de Y Victoria. "C'est incroyable de voir la confiance qu'ils acquièrent en seulement quelques jours."</p><p>Les places devraient se remplir rapidement, il est donc conseillé aux familles de s'inscrire tôt pour la saison 2026. Pour en savoir plus et réserver une place, visitez le site Web de Y Victoria et rendez-vous dès aujourd'hui dans la section Camps.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: Les inscriptions sont ouvertes pour les camps d'été 2026 de Y Victoria, offrant aux enfants et jeunes Victoriens âgés de 8 à 16 ans un été d'aventure, de confiance et de connexion.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ea83600-2123-429f-9069-dc1b1319cb51"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: Inscriptions ouvertes pour les camps d'été 2026 de Y Victoria
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mehmet.vanli@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20260520T012311Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260527T061353Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: Inscriptions ouvertes pour les camps d'été 2026 de Y Victoria | Y Victoria

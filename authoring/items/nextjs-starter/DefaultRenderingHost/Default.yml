@@ -23,6 +23,9 @@ SharedFields:
   Hint: ServerSideRenderingEngineEndpointUrl
   Value: "https://xmc-2375u8mzz4roydgidstil9-eh.sitecorecloud.io/api/editing/render"
 Languages:
+- Language: "ar-SA"
+  Versions:
+  - Version: 1
 - Language: "de-DE"
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
@@ -72,14 +75,14 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "576c6296-5e31-4bac-980c-5b2f5f652485"
+      Value: "f650ccff-3cd5-42d8-9942-b0fde989e5f6"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Anonymous
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260515T044423Z
+      Value: 20260629T041744Z
 - Language: "es-ES"
   Versions:
   - Version: 1
@@ -101,6 +104,9 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260512T064233Z
+- Language: "fa-IR"
+  Versions:
+  - Version: 1
 - Language: "fr-FR"
   Versions:
   - Version: 1
@@ -154,6 +160,12 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260507T054637Z
+- Language: "ur-PK"
+  Versions:
+  - Version: 1
+- Language: "vi-VN"
+  Versions:
+  - Version: 1
 - Language: "zh-CN"
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
