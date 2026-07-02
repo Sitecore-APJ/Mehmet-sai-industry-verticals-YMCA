@@ -259,7 +259,7 @@ export const Large = ({ params, fields }: ItemFinderProps): JSX.Element => {
   const tripTypeOptions = useMemo(
     () => [
       { value: 'round-trip' as const, dictKey: 'round_trip_label', defaultLabel: 'Round Trip' },
-      { value: 'one-way' as const, dictKey: 'one_way_label', defaultLabel: 'Single Trip' },
+      { value: 'one-way' as const, dictKey: 'one_way_label', defaultLabel: 'One Way' },
       { value: 'multi-city' as const, dictKey: 'multi_city_label', defaultLabel: 'Multi-city' },
     ],
     []
